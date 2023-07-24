@@ -1,3 +1,7 @@
+# Note
+run server locally.
+bundle exec jekyll serve
+
 # HW311
 
 A simple Jekyll theme modified from [Centrarium](https://github.com/bencentra/centrarium).
